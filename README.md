@@ -49,3 +49,11 @@ Registration form will be hosted in the abc portal website.
 Login form will be hosted in the abc portal website.
 
 The registration form and login form will be developed in the secured folder.
+
+#
+# Operating Environment 
+For the operation environment, user can run our portal in every application browser, such as Chrome, Firefox, Opera also Microsoft Edge. Also our product is access to the Windows and Mac or Linux. 
+
+#
+# User Characteristics 
+For user our portal, user must have the proper knowledge about English and internet Browsing, as the intended user are developer there is no problem with using. For the admin, admin have to need more knowledgeable than user, in languages, in skill, in system. As admin have a responsibility to manage user info, also need to response to the user comments.
