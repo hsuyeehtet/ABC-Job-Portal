@@ -43,6 +43,9 @@ Admin can login to the portal by its own email and the admin password. Admin can
 
 # Product Perspective 
 The project perspective is to Develop, Implement & Document Community Portal Website.
+
 Registration form will be hosted in the abc portal website.
+
 Login form will be hosted in the abc portal website.
-the registration form and login form will be developed in the secured folder.
+
+The registration form and login form will be developed in the secured folder.
