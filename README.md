@@ -34,9 +34,15 @@ User can see the own profile information and also can updated or added the perso
 
 ![Profile page](https://user-images.githubusercontent.com/93583345/143085640-60bdf6fd-524d-4838-8e94-3c2cf9cbc1f7.png)
 ![Update profile](https://user-images.githubusercontent.com/93583345/143085668-6a1a4e8f-187f-4728-8c27-42bb103c050b.png)
+#
 
 # Admin
 Admin can login to the portal by its own email and the admin password. Admin can manage the user data, job data, and also arrange the job apply list. Admin can edit and delete the job post. 
 
 ![Admin Home page](https://user-images.githubusercontent.com/93583345/143086451-316d281f-df12-4f0c-877b-f226e6d6562e.png)
 
+# Product Perspective 
+The project perspective is to Develop, Implement & Document Community Portal Website.
+Registration form will be hosted in the abc portal website.
+Login form will be hosted in the abc portal website.
+the registration form and login form will be developed in the secured folder.
